@@ -1,1 +1,1 @@
-# insta_face_recognition
+# Instagram_Face_Recognition
